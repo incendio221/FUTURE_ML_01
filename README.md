@@ -77,20 +77,22 @@ pip install -r requirements.txt
   - Executive KPIs (latest forecast, average, regions)
   - National forecast trend (with confidence intervals)
   - Regional performance comparison
-    <img width="1378" height="774" alt="Screenshot 2025-07-16 151435" src="https://github.com/user-attachments/assets/71b98ad9-3125-405f-972a-351289833a90" />
+    <img width="1401" height="784" alt="Screenshot 2025-07-21 154024" src="https://github.com/user-attachments/assets/ff71243d-3616-4249-953f-4906150371ab" />
 
   **National Forecast**
 
   - Interactive time series with date slicer
   - Monthly/seasonal breakdowns
   - Key statistics (average, max, min, volatility)
-    <img width="1376" height="772" alt="Screenshot 2025-07-16 151445" src="https://github.com/user-attachments/assets/47b45d75-7d43-4878-bb8d-40efd20125cc" />
+ <img width="1400" height="789" alt="Screenshot 2025-07-21 154030" src="https://github.com/user-attachments/assets/df804eca-3332-4b99-8df7-2b019fa73db7" />
 
+    
   **Regional Analysis**
 
   - Multi-region comparison (line/bar charts)
   - Regional performance table and ranking
-    <img width="1375" height="768" alt="Screenshot 2025-07-16 151452" src="https://github.com/user-attachments/assets/a2a91624-0df5-46c6-beeb-f1838b3e3d70" />
+<img width="1397" height="791" alt="Screenshot 2025-07-21 154036" src="https://github.com/user-attachments/assets/4c4cfb7a-da00-4cf1-9a2c-90240620a58e" />
+  
 
 ## 📂 Folder Structure
 
