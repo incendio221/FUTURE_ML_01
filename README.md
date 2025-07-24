@@ -77,7 +77,7 @@ pip install -r requirements.txt
   - Executive KPIs (latest forecast, average, regions)
   - National forecast trend (with confidence intervals)
   - Regional performance comparison
-    <img width="1401" height="784" alt="Screenshot 2025-07-21 154024" src="https://github.com/user-attachments/assets/ff71243d-3616-4249-953f-4906150371ab" />
+<img width="1401" height="784" alt="Screenshot 2025-07-21 154024" src="https://github.com/user-attachments/assets/ff71243d-3616-4249-953f-4906150371ab" />
 
   **National Forecast**
 
